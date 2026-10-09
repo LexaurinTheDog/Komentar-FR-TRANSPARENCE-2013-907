@@ -474,7 +474,7 @@ Le II punit d'un an d'emprisonnement et de 15 000 euros d'amende le fait, pour u
 
 Le III punit des peines de l'article 226-1 du code pénal (atteinte à la vie privée) la publication hors des cas prévus par la loi ou la divulgation des déclarations, informations ou observations mentionnées aux articles LO 135-1 et LO 135-3 du code électoral et aux articles 4, 6 et 11. Cette incrimination est le complément nécessaire de la transparence : la publicité est strictement encadrée par les articles 5 et 12, et toute divulgation en dehors de ce cadre est réprimée.
 
-Les infractions propres aux représentants d'intérêts et aux personnes agissant pour un mandant étranger figurent aux articles 18-9, 18-10 et 18-16. La section 6 du chapitre Ier, intitulée « Protection des lanceurs d'alerte », figure toujours dans la structure du texte mais ne comporte plus d'article dans la version consolidée. La NOTA rappelle l'entrée en vigueur différée prévue par l'article 33.
+Les infractions propres aux représentants d'intérêts et aux personnes agissant pour un mandant étranger figurent aux articles 18-9, 18-10 et 18-16. La section 6 du chapitre Ier, intitulée « Protection des lanceurs d'alerte », figure toujours dans la structure du texte mais ne comporte plus d'article en vigueur : son unique article 25 est abrogé depuis le 11 décembre 2016. La NOTA rappelle l'entrée en vigueur différée prévue par l'article 33.
 
 ### Article 27
 
