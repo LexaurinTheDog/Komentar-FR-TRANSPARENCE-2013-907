@@ -1,6 +1,6 @@
 # Commentaire de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique
 
-Commentaire d'un texte de droit français : **loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique** (JORF n° 0238 du 12 octobre 2013). Il couvre **40 articles** répartis en **2 chapitres de commentaire** ; pour chaque article sont reproduits le texte intégral de la disposition et un commentaire.
+Commentaire d'un texte de droit français : **loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique** (JORF n° 0238 du 12 octobre 2013). Il couvre **54 articles** (40 articles en vigueur et 14 articles abrogés ou purement modificatifs, reproduits pour que la numérotation soit complète) répartis en **2 chapitres de commentaire** ; pour chaque article sont reproduits le texte intégral de la disposition et un commentaire.
 
 La loi institue la Haute Autorité pour la transparence de la vie publique et organise la prévention des conflits d'intérêts, les déclarations de situation patrimoniale et d'intérêts des responsables publics, le contrôle des reconversions professionnelles, l'encadrement des représentants d'intérêts (lobbying) et la transparence des activités d'influence exercées pour le compte d'un mandant étranger.
 

@@ -48,6 +48,18 @@ La référence à l'article 432-12 du code pénal, qui réprime la prise illéga
 
 Le II impose la tenue d'un registre public recensant les cas dans lesquels un membre du Gouvernement estime ne pas devoir exercer ses attributions en raison d'un conflit d'intérêts, « y compris en Conseil des ministres ». Ce registre, publié en format ouvert et réutilisable, rend visibles les déports ministériels et permet de vérifier a posteriori la cohérence entre les intérêts déclarés au titre de l'article 4 et les abstentions effectivement pratiquées.
 
+### Article 3
+
+**Texte de la disposition:**
+
+> A créé les dispositions suivantes :
+>
+> - Ordonnance n° 58-1100 du 17 novembre 1958
+>
+> Art. 4 quater
+
+L'article 3 figure dans la section 1 du chapitre Ier, consacrée aux obligations d'abstention, entre la définition du conflit d'intérêts (article 2) et les obligations de déclaration de la section 2. Selon la source, il a créé l'article 4 quater de l'ordonnance n° 58-1100 du 17 novembre 1958. Il s'agit d'un article purement créateur, sans période de vigueur propre dans la base LEGI : la règle introduite appartient à l'ordonnance de 1958 et doit y être recherchée. Son rattachement à la section relative aux obligations d'abstention indique que la disposition créée relève de la prévention des conflits d'intérêts. L'article 33 l'exclut, avec le reste de la section 1, du report de l'entrée en vigueur de la loi.
+
 #### Section 2 — Obligations de déclaration
 
 ### Article 4
@@ -423,6 +435,66 @@ Le II concerne uniquement les déclarations patrimoniales des représentants fra
 La divulgation des déclarations hors des cas prévus par la loi est réprimée par l'article 26, III. La NOTA indique que le régime du II est entré en vigueur à compter du renouvellement général du Parlement européen suivant la promulgation de la loi dont il est issu.
 
 #### Section 3 — Financement de la vie politique
+
+### Article 13
+
+**Texte de la disposition:**
+
+> A créé les dispositions suivantes :
+>
+> - Code électoral
+>
+> Art. L52-8-1
+
+L'article 13 ouvre la section 3 du chapitre Ier, consacrée au financement de la vie politique. Selon la source, il a créé l'article L. 52-8-1 du code électoral. Article purement créateur, il n'a pas de contenu normatif autonome dans la version consolidée ; la règle de financement qu'il a introduite figure dans le code électoral. L'article 33 exclut la section 3 du report de l'entrée en vigueur de la loi.
+
+### Article 14
+
+**Texte de la disposition:**
+
+> A modifié les dispositions suivantes :
+>
+> - Loi n°88-227 du 11 mars 1988
+>
+> Art. 9
+
+L'article 14 a modifié, selon la source, l'article 9 de la loi n° 88-227 du 11 mars 1988. Il appartient à la série des articles 14 à 17 de la section 3 (financement de la vie politique), qui retouchent la loi de 1988 ; il n'a pas de période de vigueur propre dans la base LEGI et ne régit par lui-même aucune situation.
+
+### Article 15
+
+**Texte de la disposition:**
+
+> A modifié les dispositions suivantes :
+>
+> - Loi n°88-227 du 11 mars 1988
+>
+> Art. 11-4
+
+L'article 15 a modifié, selon la source, l'article 11-4 de la loi n° 88-227 du 11 mars 1988. Comme les articles 14, 16 et 17, il s'inscrit dans la section 3 relative au financement de la vie politique ; son effet s'est épuisé dans la modification de la loi de 1988, qu'il faut consulter dans sa rédaction en vigueur.
+
+### Article 16
+
+**Texte de la disposition:**
+
+> A modifié les dispositions suivantes :
+>
+> - Loi n°88-227 du 11 mars 1988
+>
+> Art. 11-5
+
+L'article 16 a modifié, selon la source, l'article 11-5 de la loi n° 88-227 du 11 mars 1988. Article de coordination de la section 3 (financement de la vie politique), il n'a pas de contenu normatif autonome dans la version consolidée et est reproduit pour la complétude de la numérotation.
+
+### Article 17
+
+**Texte de la disposition:**
+
+> A modifié les dispositions suivantes :
+>
+> - Loi n°88-227 du 11 mars 1988
+>
+> Art. 11-7, Art. 11-8
+
+L'article 17 a modifié, selon la source, les articles 11-7 et 11-8 de la loi n° 88-227 du 11 mars 1988. Il clôt la série des articles modificatifs de la section 3, que suit l'article 18, disposition autonome relative au président de la Commission nationale des comptes de campagne et des financements politiques. Il n'a pas de période de vigueur propre dans la base LEGI.
 
 ### Article 18
 

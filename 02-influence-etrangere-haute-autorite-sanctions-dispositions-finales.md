@@ -322,6 +322,18 @@ Le II organise la saisine et les pouvoirs d'enquête lorsqu'une personne des art
 
 L'article 20 est ainsi le pivot institutionnel de la loi : il relie les obligations de fond aux pouvoirs de l'autorité chargée de les faire respecter. La NOTA renvoie à l'entrée en vigueur des modifications issues de la loi n° 2024-850, qui a introduit les références à la section 3 ter.
 
+### Article 21
+
+**Texte de la disposition:**
+
+> A modifié les dispositions suivantes :
+>
+> - Loi n°78-753 du 17 juillet 1978
+>
+> Art. 6
+
+L'article 21, placé dans la section 4 consacrée à la Haute Autorité pour la transparence de la vie publique, a modifié selon la source l'article 6 de la loi n° 78-753 du 17 juillet 1978. Il s'agit d'un article purement modificatif, sans contenu normatif autonome dans la version consolidée ; la règle en résultant doit être recherchée dans la loi de 1978 modifiée. Il s'intercale entre les articles 20 (missions de la Haute Autorité) et 22 (constat de manquement aux obligations des articles 4 et 11).
+
 ### Article 22
 
 **Texte de la disposition:**
@@ -428,6 +440,16 @@ L'objet de la section, tel qu'il ressort de son intitulé, est de régler la sit
 
 Le III fixe l'entrée en vigueur de l'article au 1er janvier 2014, date distincte de celle de l'installation de la Haute Autorité retenue par l'article 33, lequel excepte d'ailleurs la section 5 du report général d'entrée en vigueur.
 
+#### Section 6 — Protection des lanceurs d'alerte
+
+### Article 25
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2016-12-11 par LOI n°2016-1691 du 9 décembre 2016 - art. 15 (V))
+
+L'article 25 formait la section 6 du chapitre Ier, intitulée « Protection des lanceurs d'alerte ». Selon la source, il est abrogé à compter du 11 décembre 2016 par l'article 15 de la loi n° 2016-1691 du 9 décembre 2016 ; la mention « (V) » signale que la disposition abrogative est en vigueur dans la base LEGI. Son contenu n'est pas reproduit et le commentaire ne le reconstitue pas. La section 6 n'a donc plus d'article en vigueur ; l'article 33 continue de la mentionner parmi les dispositions exclues du report de l'entrée en vigueur.
+
 #### Chapitre II — Dispositions pénales
 
 ### Article 26
@@ -454,7 +476,71 @@ Le III punit des peines de l'article 226-1 du code pénal (atteinte à la vie pr
 
 Les infractions propres aux représentants d'intérêts et aux personnes agissant pour un mandant étranger figurent aux articles 18-9, 18-10 et 18-16. La section 6 du chapitre Ier, intitulée « Protection des lanceurs d'alerte », figure toujours dans la structure du texte mais ne comporte plus d'article dans la version consolidée. La NOTA rappelle l'entrée en vigueur différée prévue par l'article 33.
 
+### Article 27
+
+**Texte de la disposition:**
+
+> A créé les dispositions suivantes :
+>
+> - Code pénal
+>
+> Art. 131-26-1
+>
+> A modifié les dispositions suivantes :
+>
+> - Code pénal
+>
+> Art. 324-7, Art. 432-17
+>
+> - Code électoral
+>
+> Art. L117
+>
+> - Code général des impôts, CGI.
+>
+> Art. 1741, Art. 1774
+>
+> A modifié les dispositions suivantes :
+>
+> - Code général des impôts, CGI.
+>
+> Art. 1837
+>
+> A modifié les dispositions suivantes :
+>
+> - Code de commerce
+>
+> Art. L241-3, Art. L242-6
+
+L'article 27 est l'article de coordination pénale de la loi. Selon la source, il a créé l'article 131-26-1 du code pénal et modifié les articles 324-7 et 432-17 du même code, l'article L. 117 du code électoral, les articles 1741, 1774 et 1837 du code général des impôts ainsi que les articles L. 241-3 et L. 242-6 du code de commerce.
+
+La création de l'article 131-26-1 du code pénal éclaire l'article 26, I, qui prévoit, à titre de peine complémentaire, l'interdiction des droits civiques « selon les modalités prévues aux articles 131-26 et 131-26-1 du code pénal ». L'article 27 n'a pas de période de vigueur propre dans la base LEGI ; les règles qu'il a introduites figurent dans les codes modifiés. L'article 33 l'exclut du report de l'entrée en vigueur de la loi, et l'article 35 en mentionne le IV.
+
+### Article 28
+
+**Texte de la disposition:**
+
+> A modifié les dispositions suivantes :
+>
+> - Code pénal
+>
+> Art. 432-13
+
+L'article 28, second article du chapitre II (dispositions pénales), a modifié selon la source l'article 432-13 du code pénal. Il est purement modificatif et n'a pas de contenu normatif autonome dans la version consolidée ; l'article 33 l'exclut, comme l'article 27, du report de l'entrée en vigueur de la loi.
+
 #### Chapitre III — Dispositions finales
+
+### Article 29
+
+**Texte de la disposition:**
+
+> A modifié les dispositions suivantes :
+>
+> - LOI n°2010-838 du 23 juillet 2010
+>
+> Art. null
+
+L'article 29 ouvre le chapitre III (dispositions finales). La source indique qu'il a modifié la loi n° 2010-838 du 23 juillet 2010, sans identifier l'article visé (mention « Art. null »). Faute de précision dans la source, le commentaire ne peut désigner la disposition modifiée ; il constate seulement que l'article est purement modificatif, sans période de vigueur propre, et que l'article 33 l'exclut du report de l'entrée en vigueur de la loi.
 
 ### Article 30
 
@@ -484,6 +570,30 @@ Le II règle la succession de la Commission pour la transparence financière de 
 
 La distinction entre fonctions achevées et fonctions en cours est la clé du dispositif transitoire : pour les premières, la procédure est poursuivie selon les règles anciennes ; pour les secondes, les nouveaux pouvoirs (articles 6, 7 et 20) s'appliquent immédiatement. Le III, également sous forme de mention, a modifié plusieurs articles du code électoral (L. 195, L. 230, L. 340, L. 367 et L. 558-11), dont la source ne reproduit pas le contenu.
 
+### Article 31
+
+**Texte de la disposition:**
+
+> A modifié les dispositions suivantes :
+>
+> - Livre des procédures fiscales
+>
+> Art. L139 B
+
+L'article 31 a modifié, selon la source, l'article L. 139 B du livre des procédures fiscales. Article de coordination du chapitre III, il n'a pas de contenu normatif autonome dans la version consolidée ; la règle résultante figure dans le livre des procédures fiscales, qu'il faut consulter dans sa rédaction en vigueur.
+
+### Article 32
+
+**Texte de la disposition:**
+
+> A modifié les dispositions suivantes :
+>
+> -Loi n° 78-17 du 6 janvier 1978
+>
+> Art. 13
+
+L'article 32 a modifié, selon la source, l'article 13 de la loi n° 78-17 du 6 janvier 1978. Il est purement modificatif et n'a pas de période de vigueur propre dans la base LEGI ; l'article 33 l'exclut du report de l'entrée en vigueur de la loi.
+
 ### Article 33
 
 **Texte de la disposition:**
@@ -504,9 +614,41 @@ La distinction entre fonctions achevées et fonctions en cours est la clé du di
 
 L'article 33 fixe l'entrée en vigueur de la loi et le calendrier des premières déclarations. Le premier alinéa pose le principe d'une entrée en vigueur différée : la loi s'applique à la date de publication au Journal officiel du décret nommant le président de la Haute Autorité. Ce report est logique, puisque la plupart des obligations supposent l'existence de l'autorité destinataire des déclarations. Selon les NOTA reproduites sous les articles 7, 10 et 26, ce décret a été publié le 20 décembre 2013.
 
-Sont exceptés de ce report l'article 1er, les sections 1, 3, 5 et 6 du chapitre Ier et les articles 27, 28, 29, 32 et 34 ; ces derniers ne figurent pas dans la version consolidée. Les principes de probité (article 1er), le déport en cas de conflit d'intérêts (article 2) et l'obligation de déclaration de soupçon du président de la commission des comptes de campagne (article 18) étaient ainsi applicables dès la publication de la loi, de même que la section 5 (article 24), dont le III fixe toutefois sa propre date d'effet.
+Sont exceptés de ce report l'article 1er, les sections 1, 3, 5 et 6 du chapitre Ier et les articles 27, 28, 29, 32 et 34 ; ces derniers sont des articles purement modificatifs ou créateurs, reproduits par la source sous la seule forme de la liste des dispositions modifiées. Les principes de probité (article 1er), le déport en cas de conflit d'intérêts (article 2) et l'obligation de déclaration de soupçon du président de la commission des comptes de campagne (article 18) étaient ainsi applicables dès la publication de la loi, de même que la section 5 (article 24), dont le III fixe toutefois sa propre date d'effet.
 
 Les alinéas suivants organisent la première vague de déclarations : les membres du Gouvernement devaient déposer leurs deux déclarations au plus tard le 1er février 2014. Pour les personnes de l'article 11, les échéances sont échelonnées : 1er février 2014 pour les représentants au Parlement européen et les collaborateurs du Président de la République et des cabinets ministériels et des présidents des assemblées (1°) ; 1er juin 2014 pour les exécutifs et élus locaux (2°) ; 1er octobre 2014 pour les membres des autorités indépendantes, les emplois pourvus en conseil des ministres et les dirigeants d'entreprises publiques (3°) ; 1er octobre 2017 pour les membres des organes de déontologie parlementaire (4°), catégorie ajoutée ultérieurement. Ces dates ont épuisé leurs effets, mais elles demeurent utiles pour apprécier la régularité des premières déclarations.
+
+### Article 34
+
+**Texte de la disposition:**
+
+> A créé les dispositions suivantes :
+>
+> - Code général des collectivités territoriales
+>
+> Art. L2123-18-1-1
+>
+> A créé les dispositions suivantes :
+>
+> - Code général des collectivités territoriales
+>
+> Art. L3123-19-3
+>
+> A créé les dispositions suivantes :
+>
+> - Code général des collectivités territoriales
+>
+> Art. L4135-19-3
+>
+> A créé les dispositions suivantes :
+>
+> - Code général des collectivités territoriales
+>
+> Art. L5211-13-1
+
+L'article 34 concerne le code général des collectivités territoriales. Selon la source, il y a créé quatre articles : L. 2123-18-1-1, L. 3123-19-3, L. 4135-19-3 et L. 5211-13-1. La répartition de ces numéros entre les parties du code consacrées respectivement à la commune, au département, à la région et aux établissements publics de coopération intercommunale montre que la règle créée a été déclinée pour chaque catégorie de collectivité ou de groupement.
+
+L'article n'a pas de contenu normatif autonome dans la version consolidée et la base LEGI ne lui attribue pas de période de vigueur ; les règles applicables résultent des articles créés dans le code. L'article 33 l'exclut du report de l'entrée en vigueur de la loi.
 
 ### Article 35
 
@@ -540,7 +682,7 @@ Les alinéas suivants organisent la première vague de déclarations : les membr
 
 *NOTA (source):* NOTA : Conformément à l’article 55 de l’ordonnance n° 2026-468 du 10 juin 2026, ces dispositions, dans leur rédaction résultant de ladite ordonnance, entrent en vigueur le lendemain de sa publication au Journal officiel de la République française dans les collectivités de Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon, soit le 12 juin 2026 ; et le dixième jour suivant sa publication en Polynésie française, dans les îles Wallis et Futuna et en Nouvelle-Calédonie, soit le 21 juin 2026.
 
-L'article 35 règle l'application de la loi outre-mer. Le I la déclare applicable en Polynésie française, en Nouvelle-Calédonie et dans les îles Wallis et Futuna, dans sa rédaction résultant de la loi n° 2025-1249 du 22 décembre 2025 portant création d'un statut de l'élu local. Sont exceptés le II de l'article 24, en tant qu'il supprime le deuxième alinéa de l'article 65 de la loi n° 84-53 et de l'article 53 de la loi n° 86-33, ainsi que le IV de l'article 27 ; ce dernier article ne figure pas dans la version consolidée. La technique dite du « compteur », qui mentionne la loi ayant fixé en dernier lieu la rédaction applicable, est propre aux collectivités régies par le principe de spécialité législative : une modification ultérieure de la loi ne s'y appliquera que si une nouvelle mention d'applicabilité est adoptée.
+L'article 35 règle l'application de la loi outre-mer. Le I la déclare applicable en Polynésie française, en Nouvelle-Calédonie et dans les îles Wallis et Futuna, dans sa rédaction résultant de la loi n° 2025-1249 du 22 décembre 2025 portant création d'un statut de l'élu local. Sont exceptés le II de l'article 24, en tant qu'il supprime le deuxième alinéa de l'article 65 de la loi n° 84-53 et de l'article 53 de la loi n° 86-33, ainsi que le IV de l'article 27 ; ce dernier article n'est reproduit par la source que sous la forme de la liste des dispositions qu'il a créées ou modifiées, sans découpage en paragraphes. La technique dite du « compteur », qui mentionne la loi ayant fixé en dernier lieu la rédaction applicable, est propre aux collectivités régies par le principe de spécialité législative : une modification ultérieure de la loi ne s'y appliquera que si une nouvelle mention d'applicabilité est adoptée.
 
 Le deuxième alinéa du I apporte une nuance importante pour l'article 11 : il s'applique dans sa rédaction issue de la loi n° 2025-1249, sauf pour les titulaires des fonctions énumérées aux 1° à 9° — membres des institutions de la Nouvelle-Calédonie, de la Polynésie française, de Saint-Barthélemy, de Saint-Martin, de Saint-Pierre-et-Miquelon et de Wallis-et-Futuna —, auxquels l'article 11 demeure applicable dans sa rédaction initiale de 2013. Pour ces responsables, le champ des obligations déclaratives est donc déterminé par la version originelle de l'article.
 

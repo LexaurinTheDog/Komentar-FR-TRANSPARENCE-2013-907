@@ -1,6 +1,6 @@
 # Commentaire de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique
 
-> **À propos du commentaire :** le présent commentaire porte sur la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique, examinée article par article — **40 articles** dans leur rédaction consolidée en vigueur. Pour chaque article figurent le texte intégral de la disposition et un commentaire.
+> **À propos du commentaire :** le présent commentaire porte sur la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique, examinée article par article — **54 articles** : les 40 articles en vigueur dans leur rédaction consolidée et 14 articles abrogés ou purement modificatifs, reproduits pour que la numérotation soit complète. Pour chaque article figurent le texte intégral de la disposition et un commentaire.
 
 ## Données de base
 
@@ -22,7 +22,7 @@ Le commentaire est réparti en deux chapitres :
 1. Chapitre Ier, sections 1 à 3 bis — Prévention des conflits d'intérêts, obligations de déclaration, financement de la vie politique, représentants d'intérêts (art. 1er à 18-10) ;
 2. Chapitre Ier, sections 3 ter à 5, chapitres II et III — Influence étrangère, Haute Autorité pour la transparence de la vie publique, dispositions pénales et finales (art. 18-11 à 35).
 
-Les articles 3, 13 à 17, 21, 25, 27 à 29, 31, 32 et 34 ne figurent pas dans la version consolidée de la source et ne sont pas commentés ; lorsque des articles en vigueur y renvoient (ainsi les articles 33 et 35), le commentaire le signale sans reconstituer leur contenu. Les articles 24 et 30 ne sont reproduits par la source, pour partie, que sous la forme de mentions « A modifié » ou « A abrogé les dispositions suivantes ».
+Les articles 3, 13 à 17, 21, 25, 27 à 29, 31, 32 et 34 n'ont pas de rédaction en vigueur : l'article 25 est abrogé et reproduit avec la date et le texte d'abrogation, les autres sont purement modificatifs ou créateurs et reproduits avec la mention « A modifié » ou « A créé les dispositions suivantes » et la liste des dispositions visées. Ils figurent dans le commentaire pour que la numérotation soit complète et font l'objet d'un commentaire bref ; lorsque des articles en vigueur y renvoient (ainsi les articles 33 et 35), le commentaire le signale sans reconstituer le contenu des textes modifiés. Les articles 24 et 30 ne sont reproduits par la source, pour partie, que sous la forme de mentions « A modifié » ou « A abrogé les dispositions suivantes ».
 
 ## Méthode
 
