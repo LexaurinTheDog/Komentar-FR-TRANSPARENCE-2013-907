@@ -646,7 +646,7 @@ Les alinéas suivants organisent la première vague de déclarations : les membr
 >
 > Art. L5211-13-1
 
-L'article 34 concerne le code général des collectivités territoriales. Selon la source, il y a créé quatre articles : L. 2123-18-1-1, L. 3123-19-3, L. 4135-19-3 et L. 5211-13-1. La répartition de ces numéros entre les parties du code consacrées respectivement à la commune, au département, à la région et aux établissements publics de coopération intercommunale montre que la règle créée a été déclinée pour chaque catégorie de collectivité ou de groupement.
+L'article 34 concerne le code général des collectivités territoriales. Selon la source, il y a créé quatre articles : L. 2123-18-1-1, L. 3123-19-3, L. 4135-19-3 et L. 5211-13-1. La création de quatre articles distincts, insérés dans quatre parties différentes du code, montre qu'une même règle a été déclinée en plusieurs endroits du code, pour plusieurs catégories de collectivités ou de groupements.
 
 L'article n'a pas de contenu normatif autonome dans la version consolidée et la base LEGI ne lui attribue pas de période de vigueur ; les règles applicables résultent des articles créés dans le code. L'article 33 l'exclut du report de l'entrée en vigueur de la loi.
 
